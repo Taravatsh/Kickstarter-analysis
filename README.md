@@ -50,17 +50,17 @@ Another challenge that could have been faced would have been with respect to the
 
 This section of the report focuses on the results achieved from the two technical analysis that were performed with some recommendations on how the dataset could have been improved and what additional charts could have been plotted for a additional analysis.
 
-- **Conclusions for Outcomes by Launch Date:**
+- **Conclusions for Outcomes by Launch Date**
 
 The conclusions that can be drawn from the outcomes based on launch date is that the launch date plays an important role on the outcomes of campaigns as in our case the month of **May** launched the most successful Kickstarter campaigns, followed by month of **June** with success rates of **111** and **100** respectively, after which it decreased rapidly in the remaining months of the year reaching to a least rate of success by the end of the year in **December**. As a result of this, it would be a good idea if Louise considers launching the theater based campaign in **May**. 
 
 Additionally, it was concluded that the rate of canceled theater projects were very few in each month and approximately close to one another throughout the year. This helps Louise know her chances of having canceled campaign would be very low.
 
-- **Conclusion for Outcomes Based on Goals:**
+- **Conclusion for Outcomes Based on Goals**
 
 Using the data achieved from the outcomes based on goals, it can be concluded that Louise has approximately **50%** chances of having a successful play campaign with her fund raising goal of more than **\$10,000** but less than **\$25,000**. Thus, it is advisable that she reduces her funding goal to **\$5,000** or less so that she can have more than **50%** chances of having a successful campaign. It can also be noted that goal range amounts of **\$35,000** to **$44,999** had a high success rate which could be due to factors other than the goal amounts.
 
-- **Limitations of Dataset:**
+- **Limitations of Dataset**
 
 One of the limitations was that the most recent year in this dataset was 2017, hence, to provide Louise with a better analysis with her campaign goal it is advisable to add data corresponding to the most recent years to have a more up-to-date analysis. 
 
@@ -68,7 +68,7 @@ Additionally, the dataset was limited to few factors for determining the campaig
 
 Other limitation of this dataset was that Louise provided us only with her fundraising goal, as it would have been better if she would have set a timeline for her fundraising campaign as well. 
 
-- **Recommendations:** 
+- **Recommendations** 
 
 One of the possible graphs that could be created is the box plot which is also known as the box and whisker plot for comparing the distribution of campaign goals and total amounts pledged for "plays" in United States.
 
